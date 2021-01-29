@@ -1,0 +1,22 @@
+2021-01-29 11:27:57,937 DEBUG  [main] got modified filename
+2021-01-29 11:27:57,937 DEBUG  [main] got original filename
+2021-01-29 11:27:57,941 DEBUG  [main] original file successfully read
+2021-01-29 11:27:57,941 DEBUG  [main] modified file successfully read
+2021-01-29 11:38:52,319 DEBUG  [main] got modified filename
+2021-01-29 11:38:52,320 DEBUG  [main] got original filename
+2021-01-29 11:38:52,324 DEBUG  [main] original file successfully read
+2021-01-29 11:38:52,324 DEBUG  [main] modified file successfully read
+2021-01-29 11:39:12,670 ERROR  [main] no any arguments found
+2021-01-29 11:39:12,671 ERROR  [main] file not found
+2021-01-29 12:14:34,253 ERROR  [main] no any arguments found
+2021-01-29 12:14:34,254 ERROR  [main] file not found
+2021-01-29 12:16:40,263 ERROR  [main] no any arguments found
+2021-01-29 12:45:00,867 ERROR  [main] no any arguments found
+2021-01-29 12:45:35,093 DEBUG  [main] got modified filename
+2021-01-29 12:45:35,094 DEBUG  [main] got original filename
+2021-01-29 12:45:35,097 DEBUG  [main] original file successfully read
+2021-01-29 12:45:35,098 DEBUG  [main] modified file successfully read
+2021-01-29 12:46:06,136 DEBUG  [main] got modified filename
+2021-01-29 12:46:06,137 DEBUG  [main] got original filename
+2021-01-29 12:46:06,141 DEBUG  [main] original file successfully read
+2021-01-29 12:46:06,141 DEBUG  [main] modified file successfully read

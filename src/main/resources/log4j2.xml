@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+        <File name="LogToFile" fileName="logs/app.log">
+            <PatternLayout pattern = "%d %p %c{1.} [%t] %m%n"/>
+        </File>
+    </Appenders>
+
+    <Loggers>
+        <Root level="all">
+            <AppenderRef ref="LogToFile"/>
+        </Root>
+    </Loggers>
+
+</Configuration>
